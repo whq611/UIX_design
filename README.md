@@ -1,4 +1,4 @@
-# WEBMASTER.UIX
+# MyUIX
 ## Here, you will find many useful (HTML, CSS, JS, PHP) sources that I created
 
 1) Animated #bicycle (Only HTML & CSS)
