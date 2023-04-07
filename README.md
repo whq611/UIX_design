@@ -1,5 +1,5 @@
 # WEBMASTER.UIX
-## Here, you will find many useful (HTML, CSS, JS, PHP) sources that I create for you for FREE
+## Here, you will find many useful (HTML, CSS, JS, PHP) sources that I create
 
 1) Animated #bicycle (Only HTML & CSS)
 2) Flickering neon lamp - 1 (Only HTML & CSS)
